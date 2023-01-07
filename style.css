@@ -8,7 +8,6 @@
                     width: 1000;
                     height: 100vh;
                     background-size: cover;
-                    /* margin-bottom: 90px; */
                 }
                 
                 .header-text {
@@ -45,7 +44,6 @@
                     display: flex;
                     gap: 60px;
                     align-items: center;
-                    /* justify-content: space-around; */
                     margin: 90px 50px 40px 50px;
                 }
                 
